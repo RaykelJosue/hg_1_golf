@@ -12,7 +12,7 @@
 - Golf [X] Raykel, Caracas
 - Beta [ ] Edwuard, Caracas
 - Fooxtruckt [ ] Alejandro, 
-- Xray [ ] Jeffrey, Puerto la Cruz
+- Xray [ ] Geffry, Puerto la Cruz
 - Delta [ ]
 - Papa [ ] Samuel, Caracas
 - Eco [ ] Andrés, Maracaibo
